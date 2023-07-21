@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm aidanbell</h1>
-<img src="https://media.licdn.com/dms/image/D5616AQEYVNNaxY3VIg/profile-displaybackgroundimage-shrink_350_1400/0/1672776245200?e=1689206400&v=beta&t=15msgyMJie5KF2YFEKnkmAwoj6xh6IRmu89M32fokvQ">
 <hr>
 
 
